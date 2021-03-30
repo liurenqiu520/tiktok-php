@@ -1,17 +1,17 @@
 {
-  "name": "robert-grubb/tiktok-php",
+  "name": "liballab/tiktok-php",
   "description": "TikTok Scraper in PHP",
   "keywords": [
     "tiktok",
     "scraper"
   ],
   "type": "library",
-  "homepage": "https://github.com/RobertGrubb/tiktok-php",
+  "homepage": "https://github.com/liurenqiu520/tiktok-php",
   "license": "MIT",
   "authors": [
     {
-      "name": "RobertGrubb",
-      "email": "matt@grubb.com"
+      "name": "liball",
+      "email": "liurenqiu520@gmail.com"
     }
   ],
   "require": {
