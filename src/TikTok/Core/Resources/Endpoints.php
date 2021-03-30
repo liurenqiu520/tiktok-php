@@ -161,7 +161,7 @@ class Endpoints {
       ],
 
       'discover-user' => [
-        'url' => 'https://m.tiktok.com/api/discover/user/?',
+        'url' => 'https://www.tiktok.com/api/discover/user/?',
         'vars' => [
           'aid'             => 1988,
           'app_name'        => 'tiktok_web',
